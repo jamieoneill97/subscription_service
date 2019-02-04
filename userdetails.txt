@@ -1,0 +1,3 @@
+Member ID, Member Name, password
+01,jamie,p,
+02,bob,x,
